@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: hsl(233, 47%, 7%);
+}
+.card{
+    display: inline;
+    height: 24rem;
+    width: 80rem;
+    border-radius: 10px;
+    background: center hsl(244, 38%, 16%);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(0.5rem,8rem );
+}
+footer{
+    transform: translate(0rem,6rem);
+    color:  hsl(0, 0%, 100%);
+
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+span{
+    color:hsl(277, 64%, 61%)
+}
+h1{
+    color:  hsl(0, 0%, 100%);
+font-size: 25px;
+font-family: 'Inter', sans-serif;
+font-weight: 700;
+}
+p{
+    color:hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+.stats{
+color: hsla(0, 0%, 100%, 0.6);
+}
+img{
+  
+    height: 24rem;
+    width: 40rem;
+    border-radius: 10px;
+    transform: translate(19.98rem,-3.5rem);
+    
+}
+.img{
+    display: inline;
+   
+
+}
+.container-text{
+  
+    text-align: left;
+}
+
